@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Trivia Quiz</string>
+    <string name="app_sub_title">Test Your Knowledge!</string>
+    <string name="start_button">Start Now</string>
+    <string name="question_1">1.\tCan peacocks fly?</string>
+    <string name="answer_1a">Yes</string>
+    <string name="answer_1b">No</string>
+
+    <string name="question_2">2.\tThe landlocked Republic of Moldova is bordered by which two countries?</string>
+    <string name="answer_2a">Ukraine</string>
+    <string name="answer_2b">Romania</string>
+    <string name="answer_2c">Russia</string>
+    <string name="answer_2d">Hungary</string>
+
+    <string name="question_3">3.\tWhat colour dwarf star is the sun?</string>
+    <string name="answer_3a">Red</string>
+    <string name="answer_3b">Yellow</string>
+    <string name="answer_3c">White</string>
+    <string name="answer_3d">Blue</string>
+
+    <string name="question_4">4.\tIn motoring terms, what does <b>RPM</b> stand for?</string>
+    <string name="answer_4a">Rate per minute</string>
+    <string name="answer_4b">Rotations per minute</string>
+    <string name="answer_4c">Revolutions per minute</string>
+    <string name="answer_4d">Rotations per millisecond</string>
+
+    <string name="question_5">5.\tName a country which has an ‘x’ in their name?</string>
+
+    <string name="question_6">6.\tWhat are the colours of the flag of Belgium?</string>
+    <string name="answer_6a">Black</string>
+    <string name="answer_6b">Red</string>
+    <string name="answer_6c">Yellow</string>
+    <string name="answer_6d">Blue</string>
+    <string name="submit_button">Submit</string>
+
+
+</resources>
